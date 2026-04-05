@@ -10,3 +10,4 @@ contract MyNumberBox {
         number = _num;
     }
 }
+Add basic Solidity contracts
