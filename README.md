@@ -11,3 +11,4 @@ contract MyNumberBox {
     }
 }
 Add basic Solidity contracts
+Update deployment config
