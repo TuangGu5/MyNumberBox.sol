@@ -16,3 +16,4 @@ Simplify contract flow
 Fix overflow issue
 Improve gas efficiency
 Add input checks
+Simplify logic flow
